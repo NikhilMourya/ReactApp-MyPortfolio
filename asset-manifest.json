@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactApp-MyPortfolio/static/css/main.7be7d750.chunk.css",
+    "main.js": "/ReactApp-MyPortfolio/static/js/main.9429f2b9.chunk.js",
+    "main.js.map": "/ReactApp-MyPortfolio/static/js/main.9429f2b9.chunk.js.map",
+    "runtime-main.js": "/ReactApp-MyPortfolio/static/js/runtime-main.07692810.js",
+    "runtime-main.js.map": "/ReactApp-MyPortfolio/static/js/runtime-main.07692810.js.map",
+    "static/js/2.c7d4a0d6.chunk.js": "/ReactApp-MyPortfolio/static/js/2.c7d4a0d6.chunk.js",
+    "static/js/2.c7d4a0d6.chunk.js.map": "/ReactApp-MyPortfolio/static/js/2.c7d4a0d6.chunk.js.map",
+    "static/js/3.565dfa79.chunk.js": "/ReactApp-MyPortfolio/static/js/3.565dfa79.chunk.js",
+    "static/js/3.565dfa79.chunk.js.map": "/ReactApp-MyPortfolio/static/js/3.565dfa79.chunk.js.map",
+    "index.html": "/ReactApp-MyPortfolio/index.html",
+    "static/css/main.7be7d750.chunk.css.map": "/ReactApp-MyPortfolio/static/css/main.7be7d750.chunk.css.map",
+    "static/js/2.c7d4a0d6.chunk.js.LICENSE.txt": "/ReactApp-MyPortfolio/static/js/2.c7d4a0d6.chunk.js.LICENSE.txt",
+    "static/media/about-photographer.cc27be01.jpg": "/ReactApp-MyPortfolio/static/media/about-photographer.cc27be01.jpg",
+    "static/media/address.a01cb8cc.png": "/ReactApp-MyPortfolio/static/media/address.a01cb8cc.png",
+    "static/media/email.a49e0158.png": "/ReactApp-MyPortfolio/static/media/email.a49e0158.png",
+    "static/media/me.7518d06c.jpeg": "/ReactApp-MyPortfolio/static/media/me.7518d06c.jpeg",
+    "static/media/phone.d90a6d23.png": "/ReactApp-MyPortfolio/static/media/phone.d90a6d23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07692810.js",
+    "static/js/2.c7d4a0d6.chunk.js",
+    "static/css/main.7be7d750.chunk.css",
+    "static/js/main.9429f2b9.chunk.js"
+  ]
+}
