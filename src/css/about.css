@@ -46,7 +46,9 @@
 .a-desc{
     font-weight: 100;
 }
-
+.about>.a-title{
+  display: none;
+}
 
 @media screen and (max-width:480px) {
     .about{
@@ -62,7 +64,12 @@
     .a-card {
       height: 30vh;
     }
-
+    .a-right>.a-title{
+      display: none;
+    }
+    .about>.a-title{
+      display: block;
+    }
     /* .a-card.bg{
       display: none;
     } */

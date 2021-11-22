@@ -4,7 +4,9 @@ import photo from '../img/about-photographer.jpg'
 export const About = () => {
     return (
         <div className="about">
+            <h1 className="a-title">About Me</h1>
             <div className="a-left">
+            
                 <div className="a-card bg"></div>
                 <div className="a-card">
                     <img src={photo} alt="" className="a-img" />
